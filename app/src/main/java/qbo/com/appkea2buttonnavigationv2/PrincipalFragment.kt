@@ -28,6 +28,7 @@ class PrincipalFragment : Fragment() {
     private fun enviarMensaje(vista: View){
         val mensaje = etmensaje.text.toString()
         Snackbar.make(vista, mensaje, Snackbar.LENGTH_LONG).show()
+
     }
 
 }
