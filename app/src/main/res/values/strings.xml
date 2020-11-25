@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppKEA2ButtonNavigationV2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="valtituloprincipal">Principal</string>
+    <string name="valtitulomultimedia">Multimedia</string>
+    <string name="valtitulonotificaciones">Notificaciones</string>
+    <string name="valtitulofragprincipal">Formulario Principal</string>
+    <string name="valbtnmensaje">ENVIAR MENSAJE</string>
+    <string name="valetmensaje">Ingrese un mensaje</string>
+</resources>
